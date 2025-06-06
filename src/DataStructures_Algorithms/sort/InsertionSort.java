@@ -1,4 +1,4 @@
-package dataStructures_algorithms.sort;
+package DataStructures_Algorithms.sort;
 
 public class InsertionSort {
     public static void insertionSort(int[] list) {
