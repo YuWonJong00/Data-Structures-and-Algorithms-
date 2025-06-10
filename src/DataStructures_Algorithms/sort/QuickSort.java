@@ -25,6 +25,8 @@ public class QuickSort {
                 }
             }
 
+
+
             // 피벗을 정렬된 위치로 이동
             int temp = arr[i + 1];
             arr[i + 1] = arr[high];
